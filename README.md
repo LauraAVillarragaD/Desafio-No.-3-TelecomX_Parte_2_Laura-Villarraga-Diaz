@@ -1,6 +1,6 @@
 
-<h1 align="center"> Desafío No. 3 TelecomX Parte 2 </h1>
-#Desafio No. 3 TelecomX Parte 2
+<h1 align="center"> TelecomX Parte 2 -  Modelos Predictivos </h1>
+#Proyecto 2: TelecomX Parte 2 - Modelos Predictivos
 <h2 align="center"> 1. :black_nib:  El propósito del análisis realizado </h2>
 El propósito del análisis realizado, destacando el objetivo principal: predecir el churn (cancelación) de clientes en base a variables relevantes.
 Estructura del proyecto y organización de los archivos, como el cuaderno principal, los datos tratados en formato CSV y cualquier carpeta con visualizaciones.
